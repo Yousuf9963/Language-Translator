@@ -27,12 +27,13 @@ python3 Translator.py
 
 https://www.buymeacoffee.com/junioprogrammer
 
-Language-Code Country
+Language-Code: Country
 
-bn             Bangla
-ar            Arabic
+           {"bn": "Bangla",
 
-tr           Turkish
+            "ar": "Arabic",
+
+            "tr": "Turkish",
 
             "ur": "Pakistan",
 
@@ -65,3 +66,4 @@ tr           Turkish
             "zh": "Chinese",
 
             "es": "Spanish"
+            }
