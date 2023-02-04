@@ -26,3 +26,42 @@ python3 Translator.py
 # Support Donation Thank you...
 
 https://www.buymeacoffee.com/junioprogrammer
+
+Language-Code Country
+
+bn             Bangla
+ar            Arabic
+
+tr           Turkish
+
+            "ur": "Pakistan",
+
+            "so": "Somali",
+
+            "en": "English",
+
+            "ko": "Koren",
+
+            "fr": "French",
+
+            "de": "German",
+
+            "he": "Hebrew",
+
+            "hi": "Hindi",
+
+            "it": "Italian",
+
+            "ja": "Japanese",
+
+            'la': "Latin",
+
+            "ms": "Malay",
+
+            "ne": "Nepali",
+
+            "ru": "Russian",
+
+            "zh": "Chinese",
+
+            "es": "Spanish"
