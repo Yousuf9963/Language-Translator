@@ -60,6 +60,8 @@ language = {"bn": "Bangla",
             
             "ur": "Pakistan",
             
+            "so": "somali"
+            
             "en": "English",
 
             "ko": "Koren",
@@ -86,8 +88,8 @@ language = {"bn": "Bangla",
 
             "zh": "Chinese",
 
-            "es": "Spanish",
-            "so": "somali"
+            "es": "Spanish"
+            
 
             }
 
