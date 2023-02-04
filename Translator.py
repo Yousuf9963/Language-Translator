@@ -60,7 +60,7 @@ language = {"bn": "Bangla",
             
             "ur": "Pakistan",
             
-            "so": "somali"
+            "so": "somali",
             
             "en": "English",
 
