@@ -21,12 +21,6 @@ pip install -r requirements.txt
 
 python3 Translator.py
 
-# Share to your Friends to Learn more Thank you...
-
-# Support Donation Thank you...
-
-https://www.buymeacoffee.com/junioprogrammer
-
 Language-Code: Country
 
            {"bn": "Bangla",
@@ -67,3 +61,9 @@ Language-Code: Country
 
             "es": "Spanish"
             }
+            
+            Share to your Friends to Learn more Thank you...
+
+# Support Donation Thank you...
+
+https://www.buymeacoffee.com/junioprogrammer
