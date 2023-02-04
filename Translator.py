@@ -53,7 +53,13 @@ translator = Translator()
  
 
 language = {"bn": "Bangla",
-
+            
+            "ar": "Arabic",
+            
+            "tr": "Turkish",
+            
+            "ur": "Pakistan",
+            
             "en": "English",
 
             "ko": "Koren",
@@ -77,8 +83,6 @@ language = {"bn": "Bangla",
             "ne": "Nepali",
 
             "ru": "Russian",
-
-            "ar": "Arabic",
 
             "zh": "Chinese",
 
